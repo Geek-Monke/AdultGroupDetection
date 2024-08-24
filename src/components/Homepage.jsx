@@ -28,8 +28,8 @@ function Homepage() {
                 <Button>Report</Button>
                 </div>
             </div> */}
-        <div className='max-w-xs w-full flex justify-center items-center text-[16px]'>
-            <Button onClick={signInHandler}>Sign In</Button>    
+        <div className='max-w-xs w-full flex justify-center items-center'>
+            <Button onClick={signInHandler} className='text-[20px]'>Sign In</Button>    
         </div>
         </div>
     </div>

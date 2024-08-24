@@ -76,3 +76,7 @@
     font-family: 'PixelFont', sans-serif;
   }
 }
+
+body p{
+  font-size: 17px;
+}
